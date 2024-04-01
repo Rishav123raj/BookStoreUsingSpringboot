@@ -8,3 +8,6 @@ I have created a simple but effective book store management system using Springb
 1. Any number of books can be added.
 2. A user can add book as per their choice.
 3. Anyone can see the list of available books in the database.
+# Contributions
+Contribution to this project is highly appreciated.
+rishavrajbhagat123@gmail.com
